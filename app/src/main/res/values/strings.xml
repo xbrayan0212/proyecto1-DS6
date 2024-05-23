@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Proyecto1</string>
+    <string name="titulo">Busqueda</string>
+    <string name="tvcedula">Cedula</string>
+    <string name="cedula">Ingrese su cedula</string>
+    <string name="buscar">Buscar</string>
+    <string name="tvnombre">Nombre</string>
+    <string name="tvapellido">Apellido</string>
+    <string name="tvcorreo">Correo</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="correo">correo</string>
 </resources>
